@@ -1,0 +1,11 @@
+img{
+
+    border-left:solid black;
+    border-top:solid red;
+    border-right:solid yellow;
+    border-bottom:solid green;
+}
+
+ol{
+    border-color: solid lightcoral;
+}
